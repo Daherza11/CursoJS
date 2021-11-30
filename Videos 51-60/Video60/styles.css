@@ -1,0 +1,13 @@
+body {
+  margin: 0;
+  background-color: #2f3238;
+  color: #ccc;
+}
+
+h1{
+  text-align: center;
+}
+
+.video {
+  width: 100vw;
+}

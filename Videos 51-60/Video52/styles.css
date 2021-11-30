@@ -1,0 +1,12 @@
+body{
+    margin: 0;
+    background: #ec407a;
+    font-family: sans-serif;
+    color: #fff;
+    user-select: none;
+}
+
+img{
+    max-width: 100%;
+    max-height: 400px;
+}
